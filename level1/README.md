@@ -4,9 +4,9 @@
 This program calculates the distance between two coordinates and the time required for a rover to reach destination.
 
 ## Concepts Used
-Distance formula
-Motion equations
-Conditional statements
+Distance formula, 
+Motion equations, 
+Conditional statements, 
 Error handling
 
 ## How to Run
@@ -18,10 +18,10 @@ Run:
 ./rover
 
 ## Inputs
-Origin coordinates (x1 y1)
-Destination coordinates (x2 y2)
-Initial velocity
-Acceleration
+Origin coordinates (x1 y1), 
+Destination coordinates (x2 y2), 
+Initial velocity, 
+Acceleration, 
 Maximum speed
 
 ## Output
